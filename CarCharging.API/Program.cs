@@ -6,6 +6,7 @@ using CarCharging.Data;
 using CarCharging.Data.Repositories;
 using CarCharging.Service;
 using CarCharging.API;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
