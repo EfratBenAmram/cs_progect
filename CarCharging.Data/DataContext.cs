@@ -10,9 +10,9 @@ namespace CarCharging.Data
 {
     public class DataContext : DbContext
     {
-        public DbSet<Advertisement> Advertisements { get; set; }
-        public DbSet<User> Users { get; set; }
-        public DbSet<Page> Pages { get; set; }
+        public DbSet<Stop> Stops { get; set; }
+        public DbSet<ChargeStation> ChargeStations { get; set; }
+        public DbSet<Vehicle> Vehicles { get; set; }
 
         public DataContext(DbContextOptions<DataContext> options) : base(options) {}
 

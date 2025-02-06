@@ -1,0 +1,16 @@
+C:\Users\Efrat_Ben_Amram\OneDrive\Documents\c#\CarCharging\CarCharging\bin\Debug\net8.0\CarCharging.Service.deps.json
+C:\Users\Efrat_Ben_Amram\OneDrive\Documents\c#\CarCharging\CarCharging\bin\Debug\net8.0\CarCharging.Service.dll
+C:\Users\Efrat_Ben_Amram\OneDrive\Documents\c#\CarCharging\CarCharging\bin\Debug\net8.0\CarCharging.Service.pdb
+C:\Users\Efrat_Ben_Amram\OneDrive\Documents\c#\CarCharging\CarCharging\bin\Debug\net8.0\CarCharging.Core.dll
+C:\Users\Efrat_Ben_Amram\OneDrive\Documents\c#\CarCharging\CarCharging\bin\Debug\net8.0\CarCharging.Core.pdb
+C:\Users\Efrat_Ben_Amram\OneDrive\Documents\c#\CarCharging\CarCharging\obj\Debug\net8.0\CarCharging.Service.csproj.AssemblyReference.cache
+C:\Users\Efrat_Ben_Amram\OneDrive\Documents\c#\CarCharging\CarCharging\obj\Debug\net8.0\CarCharging.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Efrat_Ben_Amram\OneDrive\Documents\c#\CarCharging\CarCharging\obj\Debug\net8.0\CarCharging.Service.AssemblyInfoInputs.cache
+C:\Users\Efrat_Ben_Amram\OneDrive\Documents\c#\CarCharging\CarCharging\obj\Debug\net8.0\CarCharging.Service.AssemblyInfo.cs
+C:\Users\Efrat_Ben_Amram\OneDrive\Documents\c#\CarCharging\CarCharging\obj\Debug\net8.0\CarCharging.Service.csproj.CoreCompileInputs.cache
+C:\Users\Efrat_Ben_Amram\OneDrive\Documents\c#\CarCharging\CarCharging\obj\Debug\net8.0\CarCharging.Service.sourcelink.json
+C:\Users\Efrat_Ben_Amram\OneDrive\Documents\c#\CarCharging\CarCharging\obj\Debug\net8.0\CarCharg.884320D0.Up2Date
+C:\Users\Efrat_Ben_Amram\OneDrive\Documents\c#\CarCharging\CarCharging\obj\Debug\net8.0\CarCharging.Service.dll
+C:\Users\Efrat_Ben_Amram\OneDrive\Documents\c#\CarCharging\CarCharging\obj\Debug\net8.0\refint\CarCharging.Service.dll
+C:\Users\Efrat_Ben_Amram\OneDrive\Documents\c#\CarCharging\CarCharging\obj\Debug\net8.0\CarCharging.Service.pdb
+C:\Users\Efrat_Ben_Amram\OneDrive\Documents\c#\CarCharging\CarCharging\obj\Debug\net8.0\ref\CarCharging.Service.dll

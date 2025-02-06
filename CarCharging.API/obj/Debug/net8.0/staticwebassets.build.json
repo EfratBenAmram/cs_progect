@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "W17Cn6xyJWLn2jVaQeo3734DlfYromyYcGbBUEgJP3Q=",
+  "Source": "CarCharging.API",
+  "BasePath": "_content/CarCharging.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

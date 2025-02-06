@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1E8DB53-902C-4C28-9389-14D2981C4478}|CarCharging.API\\CarCharging.API.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1E8DB53-902C-4C28-9389-14D2981C4478}|CarCharging.API\\CarCharging.API.csproj|solutionrelative:carcharging.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{048B6B05-92D5-4FD2-B096-32334D766AE0}|CarCharging\\CarCharging.Service.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048B6B05-92D5-4FD2-B096-32334D766AE0}|CarCharging\\CarCharging.Service.csproj|solutionrelative:carcharging\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1E8DB53-902C-4C28-9389-14D2981C4478}|CarCharging.API\\CarCharging.API.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.api\\carcharging.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B1E8DB53-902C-4C28-9389-14D2981C4478}|CarCharging.API\\CarCharging.API.csproj|solutionrelative:carcharging.api\\carcharging.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{573FE071-5A21-44F2-9D93-A299A304574A}|CarCharging.Data\\CarCharging.Data.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573FE071-5A21-44F2-9D93-A299A304574A}|CarCharging.Data\\CarCharging.Data.csproj|solutionrelative:carcharging.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1E8DB53-902C-4C28-9389-14D2981C4478}|CarCharging.API\\CarCharging.API.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1E8DB53-902C-4C28-9389-14D2981C4478}|CarCharging.API\\CarCharging.API.csproj|solutionrelative:carcharging.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{573FE071-5A21-44F2-9D93-A299A304574A}|CarCharging.Data\\CarCharging.Data.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.data\\repositories\\stoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573FE071-5A21-44F2-9D93-A299A304574A}|CarCharging.Data\\CarCharging.Data.csproj|solutionrelative:carcharging.data\\repositories\\stoprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1E8DB53-902C-4C28-9389-14D2981C4478}|CarCharging.API\\CarCharging.API.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.api\\controllers\\pagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1E8DB53-902C-4C28-9389-14D2981C4478}|CarCharging.API\\CarCharging.API.csproj|solutionrelative:carcharging.api\\controllers\\pagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1E8DB53-902C-4C28-9389-14D2981C4478}|CarCharging.API\\CarCharging.API.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.api\\controllers\\stopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E8DB53-902C-4C28-9389-14D2981C4478}|CarCharging.API\\CarCharging.API.csproj|solutionrelative:carcharging.api\\controllers\\stopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1E8DB53-902C-4C28-9389-14D2981C4478}|CarCharging.API\\CarCharging.API.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.api\\controllers\\advertisementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1E8DB53-902C-4C28-9389-14D2981C4478}|CarCharging.API\\CarCharging.API.csproj|solutionrelative:carcharging.api\\controllers\\advertisementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1E8DB53-902C-4C28-9389-14D2981C4478}|CarCharging.API\\CarCharging.API.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.api\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E8DB53-902C-4C28-9389-14D2981C4478}|CarCharging.API\\CarCharging.API.csproj|solutionrelative:carcharging.api\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1E8DB53-902C-4C28-9389-14D2981C4478}|CarCharging.API\\CarCharging.API.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.api\\models\\userpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,76 +31,52 @@
       "RelativeMoniker": "D:0:0:{B1E8DB53-902C-4C28-9389-14D2981C4478}|CarCharging.API\\CarCharging.API.csproj|solutionrelative:carcharging.api\\postmodelsmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|solutionrelative:carcharging.core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.core\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|solutionrelative:carcharging.core\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.core\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|solutionrelative:carcharging.core\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.core\\model\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|solutionrelative:carcharging.core\\model\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.core\\model\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|solutionrelative:carcharging.core\\model\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.core\\model\\stop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|solutionrelative:carcharging.core\\model\\stop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.core\\model\\advertisement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|solutionrelative:carcharging.core\\model\\advertisement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.core\\model\\chargestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|solutionrelative:carcharging.core\\model\\chargestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|solutionrelative:carcharging.core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.core\\repositories\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|solutionrelative:carcharging.core\\repositories\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.core\\repositories\\ipagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|solutionrelative:carcharging.core\\repositories\\ipagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.core\\repositories\\istop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|solutionrelative:carcharging.core\\repositories\\istop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.core\\repositories\\iadvertisementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|solutionrelative:carcharging.core\\repositories\\iadvertisementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.core\\service\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|solutionrelative:carcharging.core\\service\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.core\\service\\iadvertisementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|solutionrelative:carcharging.core\\service\\iadvertisementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.core\\service\\istop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|solutionrelative:carcharging.core\\service\\istop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.core\\service\\ipageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|solutionrelative:carcharging.core\\service\\ipageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1E8DB53-902C-4C28-9389-14D2981C4478}|CarCharging.API\\CarCharging.API.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E8DB53-902C-4C28-9389-14D2981C4478}|CarCharging.API\\CarCharging.API.csproj|solutionrelative:carcharging.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.core\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7829A6A1-7F91-4B6E-ADD2-38D2FE3C74CF}|CarCharging.Core\\CarCharging.Core.csproj|solutionrelative:carcharging.core\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1E8DB53-902C-4C28-9389-14D2981C4478}|CarCharging.API\\CarCharging.API.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.api\\carcharging.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1E8DB53-902C-4C28-9389-14D2981C4478}|CarCharging.API\\CarCharging.API.csproj|solutionrelative:carcharging.api\\carcharging.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{573FE071-5A21-44F2-9D93-A299A304574A}|CarCharging.Data\\CarCharging.Data.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.data\\repositories\\advertisementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{573FE071-5A21-44F2-9D93-A299A304574A}|CarCharging.Data\\CarCharging.Data.csproj|solutionrelative:carcharging.data\\repositories\\advertisementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{573FE071-5A21-44F2-9D93-A299A304574A}|CarCharging.Data\\CarCharging.Data.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.data\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573FE071-5A21-44F2-9D93-A299A304574A}|CarCharging.Data\\CarCharging.Data.csproj|solutionrelative:carcharging.data\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{573FE071-5A21-44F2-9D93-A299A304574A}|CarCharging.Data\\CarCharging.Data.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.data\\repositories\\pagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{573FE071-5A21-44F2-9D93-A299A304574A}|CarCharging.Data\\CarCharging.Data.csproj|solutionrelative:carcharging.data\\repositories\\pagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{573FE071-5A21-44F2-9D93-A299A304574A}|CarCharging.Data\\CarCharging.Data.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{573FE071-5A21-44F2-9D93-A299A304574A}|CarCharging.Data\\CarCharging.Data.csproj|solutionrelative:carcharging.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{573FE071-5A21-44F2-9D93-A299A304574A}|CarCharging.Data\\CarCharging.Data.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{573FE071-5A21-44F2-9D93-A299A304574A}|CarCharging.Data\\CarCharging.Data.csproj|solutionrelative:carcharging.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{048B6B05-92D5-4FD2-B096-32334D766AE0}|CarCharging\\CarCharging.Service.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging\\advertisementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048B6B05-92D5-4FD2-B096-32334D766AE0}|CarCharging\\CarCharging.Service.csproj|solutionrelative:carcharging\\advertisementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{048B6B05-92D5-4FD2-B096-32334D766AE0}|CarCharging\\CarCharging.Service.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging\\pageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048B6B05-92D5-4FD2-B096-32334D766AE0}|CarCharging\\CarCharging.Service.csproj|solutionrelative:carcharging\\pageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{048B6B05-92D5-4FD2-B096-32334D766AE0}|CarCharging\\CarCharging.Service.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048B6B05-92D5-4FD2-B096-32334D766AE0}|CarCharging\\CarCharging.Service.csproj|solutionrelative:carcharging\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{048B6B05-92D5-4FD2-B096-32334D766AE0}|CarCharging\\CarCharging.Service.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging\\stopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048B6B05-92D5-4FD2-B096-32334D766AE0}|CarCharging\\CarCharging.Service.csproj|solutionrelative:carcharging\\stopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{048B6B05-92D5-4FD2-B096-32334D766AE0}|CarCharging\\CarCharging.Service.csproj|c:\\users\\efrat_ben_amram\\onedrive\\documents\\c#\\carcharging\\carcharging\\carcharging.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -114,24 +90,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 22,
+          "SelectedChildIndex": 7,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Repositories\\IVehicle.cs",
+              "RelativeDocumentMoniker": "CarCharging.Core\\Repositories\\IVehicle.cs",
+              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Repositories\\IVehicle.cs",
+              "RelativeToolTip": "CarCharging.Core\\Repositories\\IVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:10:48.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "CarCharging.API",
               "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.API\\CarCharging.API.csproj",
               "RelativeDocumentMoniker": "CarCharging.API\\CarCharging.API.csproj",
-              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.API\\CarCharging.API.csproj*",
-              "RelativeToolTip": "CarCharging.API\\CarCharging.API.csproj*",
+              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.API\\CarCharging.API.csproj",
+              "RelativeToolTip": "CarCharging.API\\CarCharging.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-06T18:59:17.3Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -141,14 +130,14 @@
               "RelativeDocumentMoniker": "CarCharging.API\\PostModelsMappingProfile.cs",
               "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.API\\PostModelsMappingProfile.cs",
               "RelativeToolTip": "CarCharging.API\\PostModelsMappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T22:30:38.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 19,
               "Title": "CarCharging.Service.csproj",
               "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging\\CarCharging.Service.csproj",
               "RelativeDocumentMoniker": "CarCharging\\CarCharging.Service.csproj",
@@ -161,12 +150,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.API\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "CarCharging.API\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.API\\Controllers\\UserController.cs",
-              "RelativeToolTip": "CarCharging.API\\Controllers\\UserController.cs",
+              "DocumentIndex": 3,
+              "Title": "StopController.cs",
+              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.API\\Controllers\\StopController.cs",
+              "RelativeDocumentMoniker": "CarCharging.API\\Controllers\\StopController.cs",
+              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.API\\Controllers\\StopController.cs",
+              "RelativeToolTip": "CarCharging.API\\Controllers\\StopController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T22:19:08.088Z",
@@ -174,12 +163,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PageController.cs",
-              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.API\\Controllers\\PageController.cs",
-              "RelativeDocumentMoniker": "CarCharging.API\\Controllers\\PageController.cs",
-              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.API\\Controllers\\PageController.cs",
-              "RelativeToolTip": "CarCharging.API\\Controllers\\PageController.cs",
+              "DocumentIndex": 4,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.API\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "CarCharging.API\\Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.API\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "CarCharging.API\\Controllers\\VehicleController.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T22:18:58.738Z",
@@ -187,104 +176,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AdvertisementController.cs",
-              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.API\\Controllers\\AdvertisementController.cs",
-              "RelativeDocumentMoniker": "CarCharging.API\\Controllers\\AdvertisementController.cs",
-              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.API\\Controllers\\AdvertisementController.cs",
-              "RelativeToolTip": "CarCharging.API\\Controllers\\AdvertisementController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T22:18:47.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging\\UserService.cs",
-              "RelativeDocumentMoniker": "CarCharging\\UserService.cs",
-              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging\\UserService.cs",
-              "RelativeToolTip": "CarCharging\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging\\VehicleService.cs",
+              "RelativeDocumentMoniker": "CarCharging\\VehicleService.cs",
+              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging\\VehicleService.cs",
+              "RelativeToolTip": "CarCharging\\VehicleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T22:18:19.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Data\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "CarCharging.Data\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Data\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "CarCharging.Data\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAABBwAcAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "StopRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Data\\Repositories\\StopRepository.cs",
+              "RelativeDocumentMoniker": "CarCharging.Data\\Repositories\\StopRepository.cs",
+              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Data\\Repositories\\StopRepository.cs",
+              "RelativeToolTip": "CarCharging.Data\\Repositories\\StopRepository.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T22:17:34.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "PageRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Data\\Repositories\\PageRepository.cs",
-              "RelativeDocumentMoniker": "CarCharging.Data\\Repositories\\PageRepository.cs",
-              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Data\\Repositories\\PageRepository.cs",
-              "RelativeToolTip": "CarCharging.Data\\Repositories\\PageRepository.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAABBwAkAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "VehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Data\\Repositories\\VehicleRepository.cs",
+              "RelativeDocumentMoniker": "CarCharging.Data\\Repositories\\VehicleRepository.cs",
+              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Data\\Repositories\\VehicleRepository.cs",
+              "RelativeToolTip": "CarCharging.Data\\Repositories\\VehicleRepository.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAEBVwAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T22:17:24.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AdvertisementRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Data\\Repositories\\AdvertisementRepository.cs",
-              "RelativeDocumentMoniker": "CarCharging.Data\\Repositories\\AdvertisementRepository.cs",
-              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Data\\Repositories\\AdvertisementRepository.cs",
-              "RelativeToolTip": "CarCharging.Data\\Repositories\\AdvertisementRepository.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAABBwAkAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T22:17:14.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Model\\User.cs",
-              "RelativeDocumentMoniker": "CarCharging.Core\\Model\\User.cs",
-              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Model\\User.cs",
-              "RelativeToolTip": "CarCharging.Core\\Model\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "ChargeStation.cs",
+              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Model\\ChargeStation.cs",
+              "RelativeDocumentMoniker": "CarCharging.Core\\Model\\ChargeStation.cs",
+              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Model\\ChargeStation.cs",
+              "RelativeToolTip": "CarCharging.Core\\Model\\ChargeStation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T22:16:07.793Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Page.cs",
-              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Model\\Page.cs",
-              "RelativeDocumentMoniker": "CarCharging.Core\\Model\\Page.cs",
-              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Model\\Page.cs",
-              "RelativeToolTip": "CarCharging.Core\\Model\\Page.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Model\\Vehicle.cs",
+              "RelativeDocumentMoniker": "CarCharging.Core\\Model\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Model\\Vehicle.cs",
+              "RelativeToolTip": "CarCharging.Core\\Model\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T22:15:57.302Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Advertisement.cs",
-              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Model\\Advertisement.cs",
-              "RelativeDocumentMoniker": "CarCharging.Core\\Model\\Advertisement.cs",
-              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Model\\Advertisement.cs",
-              "RelativeToolTip": "CarCharging.Core\\Model\\Advertisement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Stop.cs",
+              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Model\\Stop.cs",
+              "RelativeDocumentMoniker": "CarCharging.Core\\Model\\Stop.cs",
+              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Model\\Stop.cs",
+              "RelativeToolTip": "CarCharging.Core\\Model\\Stop.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T22:15:46.58Z",
               "EditorCaption": ""
@@ -292,19 +255,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\DTOs\\UserDTO.cs",
-              "RelativeDocumentMoniker": "CarCharging.Core\\DTOs\\UserDTO.cs",
-              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\DTOs\\UserDTO.cs",
-              "RelativeToolTip": "CarCharging.Core\\DTOs\\UserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T22:15:24.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Mapping\\MappingProfile.cs",
               "RelativeDocumentMoniker": "CarCharging.Core\\Mapping\\MappingProfile.cs",
@@ -317,90 +267,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IAdvertisementRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Repositories\\IAdvertisementRepository.cs",
-              "RelativeDocumentMoniker": "CarCharging.Core\\Repositories\\IAdvertisementRepository.cs",
-              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Repositories\\IAdvertisementRepository.cs",
-              "RelativeToolTip": "CarCharging.Core\\Repositories\\IAdvertisementRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T22:14:54.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IPageRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Repositories\\IPageRepository.cs",
-              "RelativeDocumentMoniker": "CarCharging.Core\\Repositories\\IPageRepository.cs",
-              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Repositories\\IPageRepository.cs",
-              "RelativeToolTip": "CarCharging.Core\\Repositories\\IPageRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "IStop.cs",
+              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Repositories\\IStop.cs",
+              "RelativeDocumentMoniker": "CarCharging.Core\\Repositories\\IStop.cs",
+              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Repositories\\IStop.cs",
+              "RelativeToolTip": "CarCharging.Core\\Repositories\\IStop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T22:14:29.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "CarCharging.Core\\Repositories\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "CarCharging.Core\\Repositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T22:14:17.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IAdvertisementService.cs",
-              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Service\\IAdvertisementService.cs",
-              "RelativeDocumentMoniker": "CarCharging.Core\\Service\\IAdvertisementService.cs",
-              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Service\\IAdvertisementService.cs",
-              "RelativeToolTip": "CarCharging.Core\\Service\\IAdvertisementService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T22:13:53.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Service\\IUserService.cs",
-              "RelativeDocumentMoniker": "CarCharging.Core\\Service\\IUserService.cs",
-              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Service\\IUserService.cs",
-              "RelativeToolTip": "CarCharging.Core\\Service\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Service\\IVehicle.cs",
+              "RelativeDocumentMoniker": "CarCharging.Core\\Service\\IVehicle.cs",
+              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Service\\IVehicle.cs",
+              "RelativeToolTip": "CarCharging.Core\\Service\\IVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T22:13:37.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IPageService.cs",
-              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Service\\IPageService.cs",
-              "RelativeDocumentMoniker": "CarCharging.Core\\Service\\IPageService.cs",
-              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Service\\IPageService.cs",
-              "RelativeToolTip": "CarCharging.Core\\Service\\IPageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "IStop.cs",
+              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Service\\IStop.cs",
+              "RelativeDocumentMoniker": "CarCharging.Core\\Service\\IStop.cs",
+              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Core\\Service\\IStop.cs",
+              "RelativeToolTip": "CarCharging.Core\\Service\\IStop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T22:13:09.545Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.API\\Program.cs",
               "RelativeDocumentMoniker": "CarCharging.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.API\\Program.cs*",
-              "RelativeToolTip": "CarCharging.API\\Program.cs*",
+              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.API\\Program.cs",
+              "RelativeToolTip": "CarCharging.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T22:10:08.741Z",
@@ -408,13 +319,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 1,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Data\\DataContext.cs",
               "RelativeDocumentMoniker": "CarCharging.Data\\DataContext.cs",
               "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.Data\\DataContext.cs",
               "RelativeToolTip": "CarCharging.Data\\DataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T22:08:18.958Z",
               "EditorCaption": ""
@@ -427,33 +338,20 @@
               "RelativeDocumentMoniker": "CarCharging.API\\Models\\UserPostModel.cs",
               "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging.API\\Models\\UserPostModel.cs",
               "RelativeToolTip": "CarCharging.API\\Models\\UserPostModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T22:07:18.925Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AdvertisementService.cs",
-              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging\\AdvertisementService.cs",
-              "RelativeDocumentMoniker": "CarCharging\\AdvertisementService.cs",
-              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging\\AdvertisementService.cs",
-              "RelativeToolTip": "CarCharging\\AdvertisementService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T22:05:34.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "PageService.cs",
-              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging\\PageService.cs",
-              "RelativeDocumentMoniker": "CarCharging\\PageService.cs",
-              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging\\PageService.cs",
-              "RelativeToolTip": "CarCharging\\PageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "StopService.cs",
+              "DocumentMoniker": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging\\StopService.cs",
+              "RelativeDocumentMoniker": "CarCharging\\StopService.cs",
+              "ToolTip": "C:\\Users\\Efrat_Ben_Amram\\OneDrive\\Documents\\c#\\CarCharging\\CarCharging\\StopService.cs",
+              "RelativeToolTip": "CarCharging\\StopService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T22:04:46.675Z",
               "EditorCaption": ""

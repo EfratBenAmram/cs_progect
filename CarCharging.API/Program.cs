@@ -17,8 +17,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddScoped<IUserService, UserService>();
-builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IUserService, VehicleService>();
+builder.Services.AddScoped<IVehicle, StopRepository>();
 builder.Services.AddDbContext<DataContext>(options =>
 options.UseSqlServer(@"Server=DESKTOP-9QGFF01;DataBase=Car_Charging_Db;TrustServerCertificate=True;Trusted_Connection=True"));
 
